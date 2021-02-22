@@ -16,12 +16,15 @@ với xx là số version của file firmware. Các bạn cứ chọn file có v
 
 ## Update firmware trong uPyCraft
 Sau khi download file uPyCraft_V1.1.exe, bạn hãy chạy phần mềm ny. Nếu được hỏi có muốn cài đặt thêm font chữ hay không, bạn chọn Cancel.
+
 ![Image](../images/upycraft_install_font.png?raw=true)
 
 Giao diện của uPyCraft:
+
 ![Image](../images/upycraft.png?raw=true)
 
 Bạn vào menu Tools > BurnFirmware. Trong phần Firmware Choose, bạn chọn Users và chọn file .bin mà đã download ở trên. Các mục khác bạn để như trong hình dưới đây.
+
 ![Image](../images/upycraft_burn_firmware.png?raw=true)
 
 Bạn click ok để bắt đầu flash firmware. Sau khi flash xong, bạn hãy reset board để firmware mới được chạy.
