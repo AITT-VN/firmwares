@@ -3,8 +3,9 @@
 Để PC có thể nhận được Node WiFi thì bạn cần phải cài đặt driver:
 1. Bạn download driver CH341SER.
 2. Click vào INSTALL.
+
 ![Image](../images/ch340.png?raw=true)
-Màn hình cài đặt driver cho board
+
 Trong trường hợp có thông báo lỗi thì bạn có thể thử Uninstall rồi Install lại.
 
 ## Download tool uPyCraft để cập nhật firmware
