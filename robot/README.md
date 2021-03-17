@@ -1,6 +1,12 @@
 # Hướng dẫn cập nhật firmware cho các robot lắp ráp
 ## Cài đặt driver cho mạch điều khiển.
-Các bạn truy cập link sau: https://ohstem.vn/lp-courses/lap-trinh-arduino/lap-trinh-arduino-phan-co-ban/lessons/download-arduino-ide/. Thực hiện bước 1 để tiến hành cài đặt driver cho mạch điều khiển.
+Để PC có thể nhận được mạch điều khiển robot thì bạn cần phải cài đặt driver. Bạn download driver cho CH340 ở [link này](https://ohstem.vn/wp-content/uploads/2021/01/CH341SER.zip "Driver cho CH340") hoặc tại [trang chủ](http://www.wch.cn/download/CH341SER_EXE.html) của nhà xản xuất.
+
+Unzip file đã được download và tiến hành cài đặt. Click vào INSTALL.
+
+![Image](../images/ch340.png?raw=true)
+
+Trong trường hợp có thông báo lỗi thì bạn có thể thử Uninstall rồi Install lại.
 
 ## Download tool uPyCraft để cập nhật firmware
 Để cập nhật firmware cho board điều khiển của các robot lắp ráp, ta cần download và chạy phần mềm uPyCraft.
